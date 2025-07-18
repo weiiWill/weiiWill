@@ -15,8 +15,6 @@
 ### 🚀 About Me
 - 🔭 **Currently working on**: Ad Algorithm
 - 🌱 **Learning**: Multimodal Algorithms, Advertising Algorithms, Large Model Algorithms
-- 💻 **Tech Stack**: `Python`, `SQL`, `JAVA`, `Scala`, `Linux`, `Docker` 
-- ⚡ **Fun Fact**: I once refactored a legacy codebase in one weekend and still had time for a hackathon.
 - 📫 **Reach me**: [will.zhangweii@gmail.com](mailto:will.zhangweii@gmail.com)
 - 🧠 **Motto**: *" LLMs are like a new kind of operating system."*
 
