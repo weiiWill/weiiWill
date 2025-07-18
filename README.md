@@ -56,15 +56,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weiiWill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=weiiWill&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies">
-</p>
-
 ---
 
 ## 📚 Featured Publications
