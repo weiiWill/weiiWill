@@ -29,12 +29,18 @@
 
 ## 🏆 语言偏好
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-- Python：50.00%
-- SQL：20.00%
-- Java：20.00%
-- Scala：10.00%
+## 🏆 语言偏好
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+| 语言   | 占比    |
+| ------ | ------- |
+| 🐍 Python | 50.00% |
+| 🛢️ SQL    | 20.00% |
+| ☕ Java   | 20.00% |
+| 🔷 Scala | 10.00% |
+
+> *多语言并行，助力数据与智能时代。*
 ---
 
 ## 💡 其他亮点
