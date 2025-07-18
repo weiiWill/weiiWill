@@ -17,7 +17,7 @@
 
 ## 🔥 Current Focus
 
-- 🚀 **Leading R&D** for next-gen advertising algorithms at [Company]
+- 🚀 **Leading R&D** for next-gen advertising algorithms
 - 🌐 **Open-source contributor** to AI/ML projects
 - 🔍 **Researching** transformer architectures for multimodal applications
 ---
@@ -35,16 +35,16 @@
 ### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
@@ -69,9 +69,7 @@
 
 ## 📚 Featured Publications
 
-1. **"Optimizing Transformer Architectures for Real-Time Ad Serving"** - *MLSys 2023*
-2. **"Cross-Modal Attention Mechanisms in Multimodal Recommendation Systems"** - *KDD 2022*
-3. **"Efficient Fine-Tuning Strategies for Large Language Models"** - *NeurIPS 2021 Workshop*
+1. **"WAITING"** 
 
 ---
 
@@ -81,9 +79,9 @@
   
 | Title | Category | Popularity |
 |-------|----------|------------|
-| [RLHF vs SFT: Comprehensive Comparison](https://willweii.notion.site/RLHF-SFT-1f41dccd7a458092a808cf3a954a059e) | LLMs | ⭐⭐⭐⭐ |
-| [LLAMA 2 Architecture Deep Dive](https://willweii.notion.site/LLAMA-2-d45273f098434751803a2a80ca7edf3e) | Open Source | ⭐⭐⭐⭐⭐ |
-| [MoE Systems for Efficient Inference](https://willweii.notion.site/MOE-1eb71a6c95fc4e118069a9e4b059fff3) | Scaling | ⭐⭐⭐ |
+| [RLHF vs SFT: Comprehensive Comparison](https://willweii.notion.site/RLHF-SFT-1f41dccd7a458092a808cf3a954a059e) | RLHF | ⭐⭐⭐⭐ |
+| [LLAMA 2 Architecture Deep Dive](https://willweii.notion.site/LLAMA-2-d45273f098434751803a2a80ca7edf3e) | LLMs  | ⭐⭐⭐⭐⭐ |
+| [MoE Systems for Efficient Inference](https://willweii.notion.site/MOE-1eb71a6c95fc4e118069a9e4b059fff3) | LLMs | ⭐⭐⭐ | 
 
 </div>
 
@@ -91,21 +89,16 @@
 
 ---
 
-## 🎯 2023 Goals
+## 🎯 2025 Goals
 
-- [x] Publish research on efficient transformer architectures
-- [ ] Release open-source ad targeting framework
-- [ ] Achieve 50% inference speed improvement
-- [ ] Mentor 5 junior researchers
-
+- [ ] Enhance capabilities in advertising algorithms
+- [ ] Expanding expertise in core AI algorithms
+- [ ] Strengthen data-driven decision making capabilities
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Best Paper Award** - ACM RecSys 2022
-- 🚀 **Top 1%** Kaggle Competitor
-- 💡 **10+ Patents** in ML systems
-- 🌱 **500+ Students** taught in ML courses
+- 🥇 **Best Award** - ON THE WAY.
 
 ---
 
