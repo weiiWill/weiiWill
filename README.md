@@ -34,8 +34,8 @@
 ---
 ### 📊 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weiiWille&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWille&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="320">
+  <img src="https://github-readme-stats.vercel.app/api?username=weiiWill&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="320">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
