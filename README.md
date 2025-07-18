@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBogt1S3rfK/giphy.gif" width="120" alt="Coding GIF">
-</p>
-
 <h1 align="center">👨‍💻 Hey, I'm Will</h1>
 
 <p align="center">
