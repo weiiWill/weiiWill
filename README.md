@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hey, I'm Will Zhang</h1>
+<h1 align="center">👨‍💻 Hey, I'm Will </h1>
 <h3 align="center">AI Researcher & Algorithm Engineer</h3>
 
 <p align="center">
