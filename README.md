@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Hey, I'm Will </h1>
-<h3 align="center">AI Researcher & Algorithm Engineer</h3>
 
 <p align="center">
   <a href="http://linkedin.com/in/wei-zhang-7429b4297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
@@ -17,7 +16,7 @@
 
 ## 🔥 Current Focus
 
-- 🚀 **Leading R&D** for next-gen advertising algorithms
+- 🚀 **Leading R&D** for next-gen advertising algorithms； AI Researcher & Algorithm Engineer
 - 🌐 **Open-source contributor** to AI/ML projects
 - 🔍 **Researching** transformer architectures for multimodal applications
 ---
