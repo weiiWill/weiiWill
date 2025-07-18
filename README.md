@@ -29,8 +29,6 @@
 
 ## 🏆 语言偏好
 
-## 🏆 语言偏好
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 | 语言   | 占比    |
