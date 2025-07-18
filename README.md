@@ -16,9 +16,9 @@
 
 ## 🔥 Current Focus
 
-- 🚀 **Woring on** next-gen advertising algorithms； AI Research
+- 🚀 **Woring on** next-gen advertising algorithms
 - 🌐 **Open-source** AI/ML/DL projects on LM
-- 🔍 **Researching** transformer architectures for multimodal applications
+- 🔍 **Researching** AI architectures for multimodal applications
 ---
 
 ## 🛠️ Technical Stack
