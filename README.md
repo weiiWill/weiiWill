@@ -46,13 +46,12 @@
 - **Python**: ██████████ 90%
 - **Machine Learning**: █████ 70%
 - **SQL**: ███████ 50%
-- **JAVA**: ███ 30%
+- **Java**: ███ 30%
 ---
 
 <p align="center">
   <em>"Good code is its own best documentation." — Steve McConnell</em>
 </p>
-
 <p align="center">
   <a href="https://github.com/yourusername?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20More%20Repos-181717?logo=github" alt="Repositories"></a>
 </p>****
