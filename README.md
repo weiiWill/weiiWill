@@ -47,21 +47,6 @@
 - 🧑‍💻 持续学习新技术，关注高效工具链
 - 🌱 近期目标：提升对多模态模型的理解和应用，持续提升代码质量
 
----
-
-> *“代码即人生，开源见真章。”*# Hi, I'm weiiWill 👋
-
-AI Engineer | Backend Developer | Open Source Enthusiast
-
-![Tech Stack](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Tech Stack](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Tech Stack](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=weiiWill&label=Profile%20views&color=0e75b6&style=flat)
-
-![weiiWill's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiiWill&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=weiiWill&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Featured Projects
 
