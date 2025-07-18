@@ -16,7 +16,7 @@
 
 ## 🔥 Current Focus
 
-- 🚀 **Leading R&D** for next-gen advertising algorithms； AI Researcher & Algorithm Engineer
+- 🚀 **Woring on** for next-gen advertising algorithms； AI Research
 - 🌐 **Open-source contributor** to AI/ML projects
 - 🔍 **Researching** transformer architectures for multimodal applications
 ---
