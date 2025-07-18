@@ -2,14 +2,10 @@
 <h3 align="center">AI Researcher & Algorithm Engineer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Building+intelligent+advertising+systems;Exploring+multimodal+AI+frontiers;Turning+coffee+into+algorithms+☕" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="http://linkedin.com/in/wei-zhang-7429b4297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://www.notion.so/willweii/2025-1681dccd7a458092b6d1c3184c71af73"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Blog"></a>
   <a href="mailto:will.zhangweii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 <p align="center">
@@ -24,8 +20,6 @@
 - 🚀 **Leading R&D** for next-gen advertising algorithms at [Company]
 - 🌐 **Open-source contributor** to AI/ML projects
 - 🔍 **Researching** transformer architectures for multimodal applications
-- 📚 **Authoring** technical articles on LLM optimization
-
 ---
 
 ## 🛠️ Technical Stack
@@ -33,8 +27,8 @@
 ### 🤖 AI/ML Expertise
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
