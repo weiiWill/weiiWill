@@ -26,7 +26,7 @@
 
 ### 🤖 AI/ML Expertise
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformer-FF6B6B?style=for-the-badge&logo=transformers&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
@@ -54,7 +54,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weiiWill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiiWill&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
 
 ## 📚 Featured Publications
