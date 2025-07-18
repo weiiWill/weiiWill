@@ -46,7 +46,6 @@
 - **SQL**: ███████ 50%
 - **Java**: ███ 30%
 ---
-
 <p align="center">
   <em>"Good code is its own best documentation." — Steve McConnell</em>
 </p>
