@@ -56,7 +56,7 @@
   <!-- 居中并加标题 -->
 <!-- 🌈 炫酷贡献图 -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/weiiWill" alt="Will's GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weiiWill&theme=default&contribs=calendar&hide_border=true&bg_color=ffffff00" alt="GitHub Contribution Calendar" />
 </p>
   <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Commit Calendar" />-->
 </p>
