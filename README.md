@@ -27,7 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/Transformer-FF6B6B?style=for-the-badge&logo=transformers&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
@@ -67,8 +67,8 @@
   
 | Title | Category | Popularity |
 |-------|----------|------------|
-| [RLHF vs SFT: Comprehensive Comparison](https://willweii.notion.site/RLHF-SFT-1f41dccd7a458092a808cf3a954a059e) | RLHF | ⭐⭐⭐⭐ |
 | [LLAMA 2 Architecture Deep Dive](https://willweii.notion.site/LLAMA-2-d45273f098434751803a2a80ca7edf3e) | LLMs  | ⭐⭐⭐⭐⭐ |
+| [RLHF vs SFT: Comprehensive Comparison](https://willweii.notion.site/RLHF-SFT-1f41dccd7a458092a808cf3a954a059e) | RLHF | ⭐⭐⭐⭐ |
 | [MoE Systems for Efficient Inference](https://willweii.notion.site/MOE-1eb71a6c95fc4e118069a9e4b059fff3) | LLMs | ⭐⭐⭐ | 
 
 </div>
