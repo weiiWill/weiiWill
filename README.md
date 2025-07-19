@@ -53,10 +53,9 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <!-- 居中并加标题 -->
-<!-- 🌈 炫酷贡献图 -->
+<!-- GitHub 绿色热力图 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weiiWill&theme=default&contribs=calendar&hide_border=true&bg_color=ffffff00" alt="GitHub Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/40c463/weiiWill" alt="Will's GitHub Contribution Graph" />
 </p>
   <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Commit Calendar" />-->
 </p>
