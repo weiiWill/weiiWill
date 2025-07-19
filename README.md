@@ -56,14 +56,8 @@
   <!-- 居中并加标题 -->
 <!-- 🌈 炫酷贡献图 -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/EA4C89/weiiWill" alt="Will's GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/4CAF50/weiiWill" alt="Will's GitHub Contribution Graph" />
 </p>
-
----
-
-> 🚀 **每日一绿，持续高能**  
-> 这张图表不仅记录了我的代码足迹，更是我给自己的「打卡激励墙」。  
-> 每多一格，就多一份成就感；每亮一天，就多一次自我超越！
   <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Commit Calendar" />-->
 </p>
 
