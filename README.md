@@ -53,7 +53,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weiiWill&theme=tokyonight&show_icons=false&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&contribs=calendar" alt="GitHub Contribution Calendar" />
+  ![GitHub Contribution Calendar](https://ghchart.rshah.org/weiiWill)
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Commit Calendar" />
 </p>
 
