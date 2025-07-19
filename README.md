@@ -53,7 +53,15 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  ![GitHub Contribution Calendar](https://ghchart.rshah.org/weiiWill)
+  <!-- 居中并加标题 -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/394254/weiiWill" alt="Will's GitHub Contribution Graph" />
+</p>
+
+<!-- 暗色主题 -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/212121/weiiWill" alt="Will's GitHub Contribution Graph" />
+</p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weiiWill&theme=radical&hide_border=true" alt="GitHub Commit Calendar" />
 </p>
 
